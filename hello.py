@@ -1,4 +1,4 @@
-print("Hello python world this is surya")
+print("Hello python world this is surya first if statement")
 
 num = 3
 if num > 0:
