@@ -1,4 +1,4 @@
-print("Hello python world this is surya first if statement")
+print("Hello python world this is surya first if statement of git pulling")
 
 num = 3
 if num > 0:
